@@ -1,0 +1,6 @@
+{
+  "name": "Realistic Natural Text to Speech",
+  "description": "A fully-featured high-fidelity voice generator that translates script input into realistic, natural, multi-lingual audio and conversational dialogue using Gemini 3.1 TTS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
